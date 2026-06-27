@@ -394,7 +394,7 @@ function Product() {
 
               <div className="mt-6 flex items-baseline gap-3">
                 <span className="text-lg text-muted-foreground line-through">₹499</span>
-                <span className="font-serif text-5xl font-bold text-[color:var(--gold)]">₹299</span>
+                <span className="font-serif text-5xl font-bold text-[color:var(--gold)]">₹349</span>
               </div>
 
               <p className="mt-2 text-sm font-medium text-foreground/70">Net weight: 100g</p>
